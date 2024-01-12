@@ -1,0 +1,51 @@
+body{
+background-color: rgb(42, 126, 165)
+}
+h1{
+    color: rgb(255, 0, 136);
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+}
+.container{
+   
+    height: 450px;
+    width: 350px;
+    border: 10px solid rgb(16, 14, 13);
+    border-radius: 50px;
+    margin: auto;
+    margin-bottom: 70px;
+    background-color: rgb(10, 9, 9);
+}
+.keys button{
+    margin: 10px;
+    position: relative;
+    margin-top:25px;
+    cursor: pointer;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    background-color: rgb(255, 0, 136);
+}
+.button:hover{
+    color: rgb(10, 14, 14);
+    padding: auto;
+    margin: auto;
+}
+#display{
+    width: 300px;
+    height: 70px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
+/* .btn{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 125px;
+    background-color: aqua; */
